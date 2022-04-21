@@ -1,8 +1,5 @@
-# Challenge:  Minikube-hello
 
-* First read the `Basic rules for challenges` (https://github.com/bobbae/gcp/blob/main/challenges/README.md). 
-
-* Summary: Fork a repository and deploy the application to minikube 
+Fork a repository and deploy an application to minikube.
 
 ## Steps
 
@@ -12,11 +9,11 @@
 
 * Fork https://github.com/learnk8s/kubernetes-challenge
 
-* Make the deployed service print SADA as a response
+* Make the deployed service print MINIKUBE as a response
 
 ```
 $ curl $(minikube ip)
-Hello SADA!
+Hello MINIKUBE!
 ```
 
 * Deploy the app to minikube
@@ -27,8 +24,3 @@ Hello SADA!
 
 * Send URL to your forked repository
 
-## What to submit
-
-* Commit your deployment related `yaml` files to the forked repository
-
-* Send us the URL to your repository
