@@ -1,4 +1,4 @@
-This challenge requires use of a SQL database. Recommend use of PostgreSQL, MySQL or Google BigQuery. 
+This challenge requires use of a SQL database. Please use one of PostgreSQL, MySQL or Google BigQuery. 
 
 Challenge 1: Create the code and documentation for using CSV files under `data` directory to create four tables in a SQL database: one table for albums, another table for instruments, another table for likes and another table for posts.
 
