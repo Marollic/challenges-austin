@@ -1,4 +1,4 @@
-# Embedded-coding-challenge
+
 
 Provide sample code for three independent tasks. This directory
 contains a source file for each of the three tasks with instructions appearing as header
